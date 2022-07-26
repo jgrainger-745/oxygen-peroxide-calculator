@@ -10,8 +10,10 @@ python3 organic-peroxide-calculator.py
 
 3. The output of the computation is a DataFrame that has a header with three columns: 
 
-i. Product ID
-ii. Calculated Oxygen Concentration 
-iii. Organic Peroxide (Yes / No)
+a. Product ID
+  
+b. Calculated Oxygen Concentration 
+  
+c. Organic Peroxide (Yes / No)
 
 
